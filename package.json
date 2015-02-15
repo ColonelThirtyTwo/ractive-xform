@@ -1,0 +1,26 @@
+{
+  "name": "ractive-xform",
+  "version": "0.1.0",
+  "description": "Lightweight browserify transform for single-file ractive components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ColonelThirtyTwo/ractive-xform.git"
+  },
+  "keywords": [
+    "ractive",
+    "browserify"
+  ],
+  "author": "Alex \"Colonel Thirty Two\" Parrill",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/ColonelThirtyTwo/ractive-xform/issues"
+  },
+  "dependencies": {
+    "through": "~2.3.6",
+    "tosource": "~0.1.3"
+  }
+}
