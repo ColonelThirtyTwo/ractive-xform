@@ -1,6 +1,6 @@
 {
   "name": "ractive-xform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight browserify transform for single-file ractive components.",
   "main": "index.js",
   "scripts": {
